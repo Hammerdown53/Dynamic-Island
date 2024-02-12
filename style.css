@@ -397,7 +397,7 @@ body {
 .content .left,
 .content .right,
 .content .bar,
-content .text {
+.content .text {
   transition-property: var(--notch-duration) var(--ease-out);
 }
 
