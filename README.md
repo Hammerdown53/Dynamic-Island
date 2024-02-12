@@ -1,2 +1,2 @@
 # Dynamic-Island
-Animated Dynamic Island (First Prog - Has island bug)
+Animated Dynamic Island (First coding Project - Has island bug)
